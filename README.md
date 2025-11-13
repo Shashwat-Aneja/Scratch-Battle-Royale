@@ -1,20 +1,24 @@
-# Scratch Battle Royale
+# Scratch Battle Royale (Documentation-Only Version)
 
-A simple yet engaging Battle Royale game created using Scratch (block-based programming).  
-Features player movement, weapon mechanics, enemy bots, and a shrinking safe zone system.
-
-This project demonstrates logic building, event handling, game loops, and collision concepts in a beginner-friendly environment.
+This repository documents the full game logic, design, and systems behind my Scratch-based Battle Royale game.  
+The original `.sb3` file is not available, so this repository serves as a clean, professionally structured technical documentation archive.
 
 ---
 
-## 🎮 Gameplay Features
-- **Player Controls:** Movement, aiming, and shooting
-- **Weapons:** Simple firing mechanics using Scratch clones
-- **Enemies:** Basic AI that moves toward the player
-- **Safe Zone:** Shrinks gradually, forcing movement toward the center
-- **Health & Damage:** Player and enemies take damage during combat
-- **Victory Condition:** Last player standing wins
+## 🎮 Project Summary
+
+This Battle Royale game was originally created using Scratch's block programming. It includes:
+
+- Player movement and collision
+- Shooting mechanics using clones
+- Enemy AI that tracks and follows the player
+- Health system for player and enemies
+- Shrinking safe zone that forces movement
+- Win/lose conditions based on survival
+
+Even without the `.sb3` file, this repository provides a full breakdown of the internal architecture and logic.
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
+
